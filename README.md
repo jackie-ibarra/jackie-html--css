@@ -1,5 +1,5 @@
-# HTML/CSS Assignment 
+# HTML/CSS Assignment
 
-By Jackie Ibarra 
+By Jackie Ibarra
 
-Due in 2 weeks 
+Due in 2 weeks
